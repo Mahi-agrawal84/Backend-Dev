@@ -1,0 +1,2 @@
+Node.js is a powerful JavaScript runtime.
+It is used for building server-side applications.
