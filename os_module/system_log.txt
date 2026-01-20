@@ -1,0 +1,607 @@
+
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
+ Total memory: 7.835010528564453
+ Free memory: 1.7566642761230469
+ UpTime: 92.51289472222221
+ Model: Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+ Platform: win32
+ 
