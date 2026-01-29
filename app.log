@@ -1,0 +1,5 @@
+2025-01-20 10:15:23 INFO User logged in
+2025-01-20 10:16:01 ERROR Database connection failed
+2025-01-20 10:17:45 WARN Disk space low
+2025-01-20 10:18:10 INFO Data saved successfully
+2025-01-20 10:19:55 ERROR Timeout occurred
