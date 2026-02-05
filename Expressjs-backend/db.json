@@ -1,46 +1,26 @@
 [
     {
         "id":1,
-        "name":"Sam",
-        "age":30
+        "name":"Alex",
+        "Branch":"CS"
     },
     {
         "id":2,
-        "name":"Alex",
-        "age":25
+        "name":"Sam",
+        "Branch":"EC"
     },
     {
         "id":3,
         "name":"Jordan",
-        "age":28
+        "Branch":"CIVIL"
     },
     {
         "id":4,
         "name":"Taylor",
-        "age":22
+        "Branch":"IT"
     },
     {
-        "id":6,
-        "name":"Ayush",
-        "age":20
-    },
-    {
-        "id":7,
-        "name":"Ayush",
-        "age":20
-    },
-    {
-        "id":10,
-        "name":"kadnbfcksc",
-        "branch":"CSE"
-    },
-    {
-        "id":"5",
-        "name":"new-user",
-        "branch":"ECE"
-    },
-    {
-        "id":8,
-        "name":"new-user",
-        "branch":"ECE"
+        "id":5,
+        "name":"Tim",
+        "Branch":"ME"
     }]
