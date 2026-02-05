@@ -58,6 +58,7 @@
 
 const express=require("express");
 const fs =require("fs");
+const { json } = require("stream/consumers");
 const app=express();
 app.use(express.json());
 const PORT =8000;
@@ -145,7 +146,40 @@ app.post("/students/register",(req,res)=>{
 
 })
 
+// update student records
+
+app.put("/students/:id", (req,res)=>{
+    const userId = parseInt(req.params.id);
+
+    const foundIndex=students.findIndex(s => s.id==userId);
+    if(foundIndex === -1){
+        res.status(404).send("Student not found")
+    }
+    students[foundIndex]={...students[foundIndex],...req.body};
+
+    const result={message:"Student record updated successfully",students:students}
+    fs.writeFileSync("./db.json", JSON.stringify(students))
+
+    return res.status(200).json(result)
+})
 
 app.listen(PORT,()=>{
     console.log(`Server is Running on port:${PORT}`)
+})
+
+// delete 
+
+app.delete("/students/:id",(req,res)=>{
+    const userId = parseInt(req.params.id);
+
+    const foundIndex = students.findIndex(s => s.id === userId);
+
+    if(foundIndex === -1){
+        return res.status(404).send("Student not found");
+    }
+
+    const deletedStudent = students.splice(foundIndex,1);
+    fs.writeFileSync("./db.json", JSON.stringify(students))
+
+    return res.status(200).json({message: "Student deleted Successfully"});
 })
