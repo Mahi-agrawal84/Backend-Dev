@@ -150,12 +150,13 @@ app.post("/students/register",(req,res)=>{
 
 app.put("/students/:id", (req,res)=>{
     const userId = parseInt(req.params.id);
+    const {id,email,...updates} = req.body
 
     const foundIndex=students.findIndex(s => s.id==userId);
     if(foundIndex === -1){
         res.status(404).send("Student not found")
     }
-    students[foundIndex]={...students[foundIndex],...req.body};
+    students[foundIndex]={...students[foundIndex],...updates};
 
     const result={message:"Student record updated successfully",students:students}
     fs.writeFileSync("./db.json", JSON.stringify(students))
