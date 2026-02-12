@@ -8,15 +8,23 @@
 
         <select name="branch">
             <option value="CSE">CSE</option>
-            <option value="Civil">CIVIL</option>
-            <option value="Mechanical">MECHANICAL</option>
+            <option value="Civil">Civil</option>
+            <option value="Mechanical">Mechanical</option>
         </select>
 
-        <button type="submit">SUBMIT</button>
+        <button type="submit">Submit</button>
     </form>
 
     <hr>
 
     <h3>Current Students:</h3>
+    <ul>
+       <% allStudents.forEach(s=>{ %>
+        <li>
+            Name: <%= s.name %> &nbsp;
+            Branch: <%= s.branch %>
+        </li>
+       <% }) %> 
+    </ul>
 </body>
 </html>
