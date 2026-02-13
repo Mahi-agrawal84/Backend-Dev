@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Student</title>
+</head>
+<body>
+
+<h2>Student Registration</h2>
+
+<form action="/add" method="POST">
+    <label>Name:</label>
+    <input type="text" name="name" required><br><br>
+
+    <label>Branch:</label>
+    <select name="branch" required>
+        <option value="CSE">CSE</option>
+        <option value="ECE">ECE</option>
+        <option value="IT">IT</option>
+        <option value="ME">ME</option>
+    </select><br><br>
+
+    <button type="submit">Add Student</button>
+</form>
+
+<br>
+<a href="/students">View All Students</a>
+
+</body>
+</html>
