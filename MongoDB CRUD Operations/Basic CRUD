@@ -1,1 +1,57 @@
+# 🎓 Student Management System (MongoDB CRUD)
 
+```js
+// -----------------------------
+// Use Database & Collection
+// -----------------------------
+use studentDB
+
+db.createCollection("students")
+
+// -----------------------------
+// 1. Add New Student
+// -----------------------------
+db.students.insertMany([
+  {
+    name: "Mahi",
+    email: "mahi@gmail.com",
+    age: 21,
+    course: "B.Tech",
+    gpa: 8.5
+  },
+  {
+    name: "Rahul",
+    email: "rahul@gmail.com",
+    age: 22,
+    course: "BCA",
+    gpa: 7.8
+  }
+])
+
+// -----------------------------
+// 2. View All Students
+// -----------------------------
+db.students.find()
+
+// -----------------------------
+// 3. Find Student by Email
+// -----------------------------
+db.students.findOne({ email: "mahi@gmail.com" })
+
+// -----------------------------
+// 4. Update Student GPA
+// -----------------------------
+db.students.updateOne(
+  { email: "mahi@gmail.com" },
+  { $set: { gpa: 9.0 } }
+)
+
+// -----------------------------
+// 5. Delete Student
+// -----------------------------
+db.students.deleteOne({ email: "rahul@gmail.com" })
+
+// -----------------------------
+// Verify Final Data
+// -----------------------------
+db.students.find()
