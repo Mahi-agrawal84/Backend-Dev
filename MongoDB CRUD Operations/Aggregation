@@ -1,0 +1,69 @@
+# 📊 MongoDB Aggregation Pipelines
+
+## 🎯 Objective
+1. Calculate average GPA by department  
+2. Find most popular courses  
+3. Generate student performance report  
+
+---
+
+```js
+// -----------------------------
+// Use Database
+// -----------------------------
+use studentDB
+
+// -----------------------------
+// 1. Average GPA by Department
+// -----------------------------
+db.students.aggregate([
+  {
+    $group: {
+      _id: "$department",
+      avgGPA: { $avg: "$gpa" }
+    }
+  }
+])
+
+// -----------------------------
+// 2. Find Most Popular Courses
+// (Assuming students have 'courses' array)
+// -----------------------------
+db.students.aggregate([
+  { $unwind: "$courses" }, // flatten courses array
+  {
+    $group: {
+      _id: "$courses",
+      totalEnrollments: { $sum: 1 }
+    }
+  },
+  { $sort: { totalEnrollments: -1 } }, // descending order
+  { $limit: 5 } // top 5 courses
+])
+
+// -----------------------------
+// 3. Student Performance Report
+// -----------------------------
+db.students.aggregate([
+  {
+    $project: {
+      name: 1,
+      email: 1,
+      department: 1,
+      gpa: 1,
+      performance: {
+        $cond: {
+          if: { $gte: ["$gpa", 3.5] },
+          then: "Excellent",
+          else: {
+            $cond: {
+              if: { $gte: ["$gpa", 3.0] },
+              then: "Good",
+              else: "Average"
+            }
+          }
+        }
+      }
+    }
+  }
+])
