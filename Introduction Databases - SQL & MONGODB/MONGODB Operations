@@ -1,0 +1,74 @@
+# 📚 MongoDB Library System (One Page Code)
+
+```js
+// Use database
+use libraryDB
+
+// Create collections
+db.createCollection("books")
+db.createCollection("users")
+
+// -----------------------------
+// 1. Add New Books
+// -----------------------------
+db.books.insertMany([
+  { title: "The Alchemist", author: "Paulo Coelho", genre: "Fiction", available: true },
+  { title: "Atomic Habits", author: "James Clear", genre: "Self-help", available: true },
+  { title: "Rich Dad Poor Dad", author: "Robert Kiyosaki", genre: "Finance", available: true }
+])
+
+// -----------------------------
+// 2. Find Books by Author
+// -----------------------------
+db.books.find({ author: "Paulo Coelho" })
+
+// -----------------------------
+// 3. Update Book Availability
+// -----------------------------
+
+// Borrow book (set unavailable)
+db.books.updateOne(
+  { title: "The Alchemist" },
+  { $set: { available: false } }
+)
+
+// Return book (set available)
+db.books.updateOne(
+  { title: "The Alchemist" },
+  { $set: { available: true } }
+)
+
+// -----------------------------
+// 4. Track Borrowed Books by User
+// -----------------------------
+
+// Add users
+db.users.insertMany([
+  { name: "Mahi", borrowedBooks: [] },
+  { name: "Rahul", borrowedBooks: [] }
+])
+
+// Borrow a book
+db.users.updateOne(
+  { name: "Mahi" },
+  { $push: { borrowedBooks: "The Alchemist" } }
+)
+
+db.books.updateOne(
+  { title: "The Alchemist" },
+  { $set: { available: false } }
+)
+
+// Return a book
+db.users.updateOne(
+  { name: "Mahi" },
+  { $pull: { borrowedBooks: "The Alchemist" } }
+)
+
+db.books.updateOne(
+  { title: "The Alchemist" },
+  { $set: { available: true } }
+)
+
+// View user borrowed books
+db.users.find({ name: "Mahi" })
