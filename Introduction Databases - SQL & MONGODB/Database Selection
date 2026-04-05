@@ -1,0 +1,66 @@
+## Database Type Selection (SQL vs NoSQL)
+
+### 1. Online Banking System → SQL (Relational Database)
+**Justification:**
+- Requires ACID properties (Atomicity, Consistency, Isolation, Durability)
+- Handles secure transactions (e.g., money transfer)
+- Ensures strong data integrity and consistency
+- Data is highly structured (accounts, users, transactions)
+
+**Examples:** MySQL, PostgreSQL  
+
+---
+
+### 2. Social Media Platform → NoSQL
+**Justification:**
+- Handles large volumes of unstructured data (posts, images, comments)
+- Needs high scalability for millions of users
+- Flexible schema for frequent feature updates
+- Fast read/write performance
+
+**Examples:** MongoDB, Cassandra  
+
+---
+
+### 3. Real-Time Chat Application → NoSQL
+**Justification:**
+- Supports real-time messaging
+- High write throughput (many messages per second)
+- Semi-structured data (messages, timestamps, users)
+- Easy horizontal scaling
+
+**Examples:** Firebase, Redis, MongoDB  
+
+---
+
+### 4. Hospital Patient Records → SQL
+**Justification:**
+- Requires high accuracy and consistency (critical medical data)
+- Structured data (patients, doctors, prescriptions)
+- Strong relationships between entities
+- Ensures data security and compliance
+
+**Examples:** PostgreSQL, Oracle  
+
+---
+
+### 5. IoT Sensor Data Collection → NoSQL
+**Justification:**
+- Handles massive continuous data streams
+- Time-series and semi-structured data
+- Requires high scalability and fast ingestion
+- Flexible schema for different devices
+
+**Examples:** InfluxDB, Cassandra  
+
+---
+
+## Summary Table
+
+| Use Case                     | Database Type | Key Reason                     |
+|----------------------------|--------------|--------------------------------|
+| Online Banking System      | SQL          | Transactions & consistency     |
+| Social Media Platform      | NoSQL        | Scalability & flexibility      |
+| Real-Time Chat Application | NoSQL        | Real-time & high speed         |
+| Hospital Patient Records   | SQL          | Accuracy & relationships       |
+| IoT Sensor Data           | NoSQL        | High volume & scalability      |
