@@ -1,0 +1,37 @@
+# 📦 JSON to BSON Conversion (One Page)
+
+```js
+// -----------------------------
+// Original JSON
+// -----------------------------
+{
+  "orderId": "12345",
+  "orderDate": "2024-01-15",
+  "totalAmount": "99.99",
+  "items": ["item1", "item2"]
+}
+
+// -----------------------------
+// Converted BSON (MongoDB Format)
+// -----------------------------
+{
+  orderId: NumberInt(12345),                  // string → integer
+  orderDate: ISODate("2024-01-15T00:00:00Z"), // string → date
+  totalAmount: NumberDecimal("99.99"),       // string → decimal
+  items: ["item1", "item2"]                  // array remains same
+}
+
+// -----------------------------
+// Optional: Insert into MongoDB
+// -----------------------------
+db.orders.insertOne({
+  orderId: NumberInt(12345),
+  orderDate: ISODate("2024-01-15T00:00:00Z"),
+  totalAmount: NumberDecimal("99.99"),
+  items: ["item1", "item2"]
+})
+
+// -----------------------------
+// Optional: Verify Data
+// -----------------------------
+db.orders.find()
