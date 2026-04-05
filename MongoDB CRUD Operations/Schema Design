@@ -1,0 +1,61 @@
+# 📚 MongoDB Schema Design
+
+## 🎯 Objective
+Design schemas for:
+1. Course with prerequisites  
+2. Professor with multiple departments  
+3. Grade with student and course references  
+
+---
+
+```js
+// -----------------------------
+// 1. Course Schema (with prerequisites)
+// -----------------------------
+{
+  _id: ObjectId,
+  courseName: "Data Structures",
+  courseCode: "CS201",
+  credits: 4,
+  prerequisites: [
+    ObjectId("prev_course_id_1"),
+    ObjectId("prev_course_id_2")
+  ] // references to other courses
+}
+
+// -----------------------------
+// 2. Professor Schema (multiple departments)
+// -----------------------------
+{
+  _id: ObjectId,
+  name: "Dr. Sharma",
+  email: "sharma@university.com",
+  departments: ["Computer Science", "Data Science"], // multiple departments
+  experience: 10
+}
+
+// -----------------------------
+// 3. Grade Schema (student & course references)
+// -----------------------------
+{
+  _id: ObjectId,
+  studentId: ObjectId("student_id"),
+  courseId: ObjectId("course_id"),
+  grade: "A",
+  semester: "Fall 2025"
+}
+
+// -----------------------------
+// Optional Collections (Reference)
+// -----------------------------
+
+// Student Schema
+{
+  _id: ObjectId,
+  name: "Mahi",
+  email: "mahi@gmail.com"
+}
+
+// Course Collection stores course documents
+// Professor Collection stores professor documents
+// Grade Collection links students and courses
