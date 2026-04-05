@@ -1,0 +1,46 @@
+# 🎓 Student Management – Advanced Queries (MongoDB)
+
+```js
+// -----------------------------
+// Use Database
+// -----------------------------
+use studentDB
+
+// -----------------------------
+// 1. Find Students with GPA between 3.0 and 3.5
+// -----------------------------
+db.students.find({
+  gpa: { $gte: 3.0, $lte: 3.5 }
+})
+
+// -----------------------------
+// 2. Find Students Enrolled in More Than 5 Courses
+// (Assuming 'courses' is an array field)
+// -----------------------------
+db.students.find({
+  courses: { $exists: true, $size: { $gt: 5 } } // note: $size doesn't support $gt directly
+})
+
+// Correct way using $expr:
+db.students.find({
+  $expr: { $gt: [ { $size: "$courses" }, 5 ] }
+})
+
+// -----------------------------
+// 3. Get Top 10 Students by GPA
+// -----------------------------
+db.students.find()
+  .sort({ gpa: -1 })   // descending order
+  .limit(10)
+
+// -----------------------------
+// 4. Count Students by City
+// -----------------------------
+db.students.aggregate([
+  {
+    $group: {
+      _id: "$city",
+      totalStudents: { $sum: 1 }
+    }
+  }
+])
