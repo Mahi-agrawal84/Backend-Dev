@@ -1,0 +1,49 @@
+## CAP Theorem Analysis
+
+CAP Theorem states that a distributed system can only guarantee two out of three:
+- **C (Consistency)** – All nodes see the same data at the same time  
+- **A (Availability)** – System always responds (no downtime)  
+- **P (Partition Tolerance)** – System continues despite network failures  
+
+---
+
+### 1. Stock Trading Platform → **CP (Consistency + Partition Tolerance)**
+**Reason:**
+- Strong consistency is critical (no incorrect trades)
+- Must handle network failures
+- Availability can be sacrificed temporarily to maintain correctness
+
+---
+
+### 2. Content Delivery Network (CDN) → **AP (Availability + Partition Tolerance)**
+**Reason:**
+- System must always be available to serve content
+- Can tolerate slightly stale data
+- High availability is more important than strict consistency
+
+---
+
+### 3. Airline Booking System → **CP (Consistency + Partition Tolerance)**
+**Reason:**
+- Avoid double booking (consistency is critical)
+- Must handle distributed system failures
+- Availability can be reduced to maintain correct seat allocation
+
+---
+
+### 4. Video Streaming Service → **AP (Availability + Partition Tolerance)**
+**Reason:**
+- Continuous availability is required for user experience
+- Slight delays or inconsistencies (e.g., buffering) are acceptable
+- Must work even during network partitions
+
+---
+
+## Summary Table
+
+| System                     | CAP Choice | Priority Reason                  |
+|--------------------------|------------|---------------------------------|
+| Stock Trading Platform   | CP         | Accuracy over availability       |
+| Content Delivery Network | AP         | Always available content         |
+| Airline Booking System   | CP         | Prevent data inconsistency       |
+| Video Streaming Service  | AP         | Smooth user experience           |
